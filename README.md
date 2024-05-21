@@ -1,6 +1,6 @@
 # tibdyt_tiempo
 ## Introducción
-Esta aplicación es muestra información del tiempo(temperatura, estado del cielo y humedad) para un municipio especificado,  obteniendo la información a través de la api de www.el-tiempo.net
+Esta aplicación muestra información del tiempo(temperatura, estado del cielo y humedad) para un municipio especificado,  obteniendo la información a través de la api de www.el-tiempo.net
 
 ## Estructura
 Tiene las siguientes funciones principalmente:
