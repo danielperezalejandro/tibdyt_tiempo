@@ -1,0 +1,8 @@
+---
+id: tiempo
+name: Tiempo
+summary: ' informacion del tiempo'
+desc: Muesttra informacion dle timepo.
+author: danielperezalejandro
+fileName: tiempo.star
+packageName: tiempo
