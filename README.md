@@ -17,7 +17,7 @@ Obtención de Datos:
 La aplicación obtiene los datos meteorológicos del municipio especificado mediante llamadas a la API de El Tiempo.
   
 Renderización de la Interfaz de Usuario:
-Se muestra la información del tiempo, incluyendo la temperatura actual, el estado del cielo, la humedad y la fecha, utilizando los iconos correspondientes y actualizando el color según las condiciones climáticas.
+Se muestra la información del tiempo, incluyendo la temperatura actual, el estado del cielo, la humedad y la fecha.
 
 ## Instalación
 Para la instalación y uso de la aplicación, debes descargar este repositorio. Una vez descargado, deberás acceder desde la consola al directorio donde estén los archivos y ejecutar el comando pixlet serve nombre_del_archivo.star. Con esto realizado, la consola te devolverá la URL en la que se está ejecutando la aplicación. Si ingresas en ella, podrás usarla y verla funcionar.
